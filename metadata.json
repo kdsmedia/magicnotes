@@ -1,0 +1,10 @@
+{
+  "name": "MagicNotes",
+  "description": "Aplikasi catatan modern dengan integrasi AI untuk meringkas dan merapikan ide Anda.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation",
+    "bluetooth"
+  ]
+}
